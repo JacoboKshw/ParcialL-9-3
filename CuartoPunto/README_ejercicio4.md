@@ -8,16 +8,13 @@ Compara un lenguaje compilado (C) y uno interpretado (Python) usando Fibonacci r
 
 ## Compilar y ejecutar
 ```
-gcc fibonacci.c -o fibonacci
-./fibonacci
+cc fibonacci.c 
+./a.out
 python3 fibonacci.py
 ```
 
 ## Resultados
-| Lenguaje | Tiempo     |
-|----------|------------|
-| C        | 0.86 seg   |
-| Python   | 14.87 seg  |
+<img width="817" height="282" alt="imagen" src="https://github.com/user-attachments/assets/753eb01e-93f0-4a49-bc48-d1ffa2dd241e" />
 
-C es ~17 veces mas rapido porque compila directo a codigo maquina.
+C es as rapido porque compila directo a codigo maquina.
 Python interpreta cada instruccion en tiempo de ejecucion.
