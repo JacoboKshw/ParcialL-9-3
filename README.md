@@ -1,5 +1,4 @@
-# AFDs en Python
-
+# Punto 1 y 2
 Implementación de dos Autómatas Finitos Deterministas (AFD)
 
 ---
