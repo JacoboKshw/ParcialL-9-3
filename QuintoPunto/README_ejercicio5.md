@@ -1,4 +1,4 @@
-# Fibonacci con ANTLR
+# Fibonacci 
 
 Calcula la secuencia de Fibonacci usando ANTLR4 con Python.
 
